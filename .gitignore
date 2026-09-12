@@ -12,6 +12,10 @@
 *.war
 *.ear
 
+apache-ant-*
+**/junit-jupiter-starter-ant/lib/
+**/junit-jupiter-starter-ant/build/
+
 .gradle/
 build/
 bin/
